@@ -41,25 +41,6 @@ Courier New
 Verdana
 Times New Roman`
 
-# Example
-Here's an example of using the Model component:
-
-```jsx
-import React from "react";
-import Model from "font-model-component";
-
-const App = () => {
-    return (
-        <div>
-            <Model text="Hello, world!" />
-        </div>
-    );
-};
-
-export default App;
-```
-This will render the text `"Hello, world!"` with different fonts and their names in the Model component.
-
 ## Contributing
 Contributions are welcome! If you have any suggestions or improvements, feel free to open an issue or create a pull request.
 
