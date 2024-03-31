@@ -11,13 +11,11 @@ const Model = ({ text }) => {
 
     return (
         <div>
-            <div>
-                {fonts.map((font, index) => (
-                    <p key={index} style={{ fontFamily: font.style, fontSize: '25px' }}>
-                        {text} - {font.name}
-                    </p>
-                ))}
-            </div>
+            {fonts.map((font, index) => (
+                <p key={index} style={{ fontFamily: font.style, fontSize: '25px' }}>
+                    {text} - {font.name}
+                </p>
+            ))}
         </div>
     );
 }
