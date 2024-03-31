@@ -1,2 +1,2 @@
-import Model from "./Component/font-testing";
+import Model from "./Component";
 export default Model;

@@ -1,0 +1,22 @@
+{
+  "name": "font-testingg",
+  "version": "1.0.0",
+  "description": "An npm package to get suitable font as per your choice by simply passing a text and you will be able you see your text in different fonts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ayesha-khalil-432/npm-first-Package.git"
+  },
+  "keywords": [
+    "font-testingg"
+  ],
+  "author": "Ayesha Khalil",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Ayesha-khalil-432/npm-first-Package/issues"
+  },
+  "homepage": "https://github.com/Ayesha-khalil-432/npm-first-Package#readme"
+}
